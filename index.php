@@ -1,4 +1,5 @@
 <?php include('includes/header-footer/header.php'); ?>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -27,7 +28,7 @@
                     <img class="slide-in-bottom"src="assets/images/char-img4.webp">
                     <img class="slide-in-bottom"src="assets/images/char-img5.png">
                     <img class="slide-in-bottom"src="assets/images/char-img6.png">
-                    <img class="slide-in-bottom"src="assets/images/char-img7.png">
+                    <!-- <img class="slide-in-bottom"src="assets/images/char-img7.png"> -->
                 </div>
             </section>
             <section class="">
@@ -78,10 +79,19 @@
                             <p>疑ふせよ備郭カアネ米見ユ供内水ヘ強確ぐ話容藤ねめう泉25且佃1会アルネ盟使ざたもッ対姿ムル困津ル歩性るや場転ヨ選極詳地イクス権努埋のぜお。無をらトし事島モ所逆意かうのフ可治で染8古赦イニ夜16土モ打提きろ旅高以けゃだっ提謙い交科どべで。</p>
                             <hr>
                         </div>
-                        <button>ニュース一覧へ</button>
+                        <button><a href="news.php">ニュース一覧へ</a> </button>
                     </div>
                 </div>
             </section>
+            <section class="contact">
+                <div class="box">
+                    <h2 class="font-blue">CONTACT</h2>
+                    <button><a href="contact.php">Contact us</a> </button>
+                </div>
+            </section>
+            <footer>
+                <?php include('includes/header-footer/footer.php'); ?>
+            </footer>
         </main>
     </div> 
 </body>
