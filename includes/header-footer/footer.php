@@ -7,25 +7,47 @@
     <title>Document</title>
 </head>
 <body>
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <div class="logo">
-                        <img src="assets/images/logo.png" alt="">
-                    </div>
-                    <h3>込むせフに掲意リクヤス更公ヨサ</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="logo">
+                    <img src="assets/images/logo.png" alt="">
                 </div>
+                <h3>込むせフに掲意リクヤス更公ヨサ</h3>
+            </div>
+            <div class="cols">
                 <div class="col">
                     <ul>
                         <li>HOME</li>
                         <li>WORKS</li>
-                        <li></li>
+                        <li>COMPANY</li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul>
+                        <li>NEWS</li>
+                        <li>CONTACT</li>
+                        <li>RECRUIT</li>
                     </ul>
                 </div>
             </div>
-        </div> 
-    </footer>
+            <div class="cols">
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li><p>むせフに掲意リクヤス更公ヨサ</p></div></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col"> <p>Copyright むせフに掲意リクヤス更公ヨに掲意リクヤス更</p></div>
+           
+        </div>
+    </div> 
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 <script src="assets/js/index.js"></script>
